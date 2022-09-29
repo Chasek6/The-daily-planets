@@ -36,6 +36,7 @@
 
 
 # The Developers<img width="1545" alt="TDP" src="https://user-images.githubusercontent.com/108581086/192931502-b86bf3c2-65bc-4f5a-87b6-ef9f9875616b.png">
+![DAILY PLANETS-1](https://user-images.githubusercontent.com/108581086/192952674-76bf696c-abc5-48db-a0fe-b14aee09f171.png)
 
 Team ***BESC*** is:  
 
