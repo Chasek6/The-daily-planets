@@ -33,9 +33,10 @@
 ![The Daily Planets Mobile Site](.assets/../assets/images/daily-planets-mobile.png)
 
 ### Desktop Site
-![The Daily Planets Desktop Site](.assets/../assets/images/daily-planets-desktop.png)
 
-# The Developers
+
+# The Developers<img width="1545" alt="TDP" src="https://user-images.githubusercontent.com/108581086/192931502-b86bf3c2-65bc-4f5a-87b6-ef9f9875616b.png">
+
 Team ***BESC*** is:  
 
 - **Chase** Stratton  :  ***CSS*** guru  
